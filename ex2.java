@@ -10,7 +10,7 @@ public class ex2 {
         System.out.println(rev);
         System.out.println(txt);
         if (rev==txt) {
-            System.out.println(" palinbrome");
+            System.out.println(" palinbr ome");
             
     
         }

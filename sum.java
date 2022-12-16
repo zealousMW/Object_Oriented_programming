@@ -3,7 +3,7 @@ public class sum {
         int n = 10, sum =0;
         for (int i = 1; i <=n; i++) {
             sum=(i*i*i);
-            System.out.println(sum+"\n");
+            System.out.println(i+"*"+i+"*"+i+"="+sum);
             
         }
     }

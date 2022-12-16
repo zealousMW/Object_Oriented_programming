@@ -17,7 +17,7 @@ public class userdefined {
             n = scanner.nextInt();
             if(n==0){
             throw new numIsZero("zero");
-            scanner.close();
+            
             }
         }
         catch (numIsZero ex) {
