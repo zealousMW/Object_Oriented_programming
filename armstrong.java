@@ -8,7 +8,7 @@ public class armstrong {
 
         while (temp != 0)
         {
-            rem = temp % 10;`
+            rem = temp % 10;
             sum += Math.pow(rem, 3);
             temp /= 10;
         }
