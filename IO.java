@@ -5,7 +5,7 @@ import java.io.FileOutputStream;
 /**
  * c
  */
-public class c {
+public class IO {
 
     public static void main(String[] args) {
         int c;
